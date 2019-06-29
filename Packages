@@ -1,0 +1,178 @@
+Package: com.sugi.ipadstatusbarxii
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugi
+Depends: mobilesubstrate
+Filename: ./debs/com.sugi.ipadstatusbarxii_1.0.0_iphoneos-arm.deb
+Size: 2298
+MD5sum: da9e24ad3c4b9be779eb8a072c7de9aa
+SHA1: 448401411bfed0af537c18b8b80f831f4ba89232
+SHA256: 0575613576326fa97bbacb7f6877ea03f4d5a93c8d33c1feaeb3055dbb6290ae
+SHA512: 8d3c795b8593406daa797f2656a016a19018d39e287afe97b93b3a4e13b1f83e55cb6fabb1d83701e76414e7caf9e9beca564355532f76d63945714789243ccb
+Description: iPhone上でもiPadの様なステータスバーを再現することが出来ます。
+Name: iPad StatusBarXII
+Author: sugi
+
+Package: com.sugi.nodockblur
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugi
+Depends: mobilesubstrate
+Filename: ./debs/com.sugi.nodockblur_1.0.0_iphoneos-arm.deb
+Size: 2274
+MD5sum: ff14a6cf4d86fad9ce7530dc02978ea7
+SHA1: 57484478edbc451b57ff18686bb730ac2d1b9556
+SHA256: 20d4b7bba196cb3d8ec961bc03345c21566117653b9223a42cdfedc876ddbf9d
+SHA512: 620810acd6cb9a71e3df61460316d492179c086fdb22200959e48ecddaca86ad7fc5f3691d3d133e9d57fb428676cad29cb92eb2d3e69fae18a5dd45ffbcd3d9
+Description: ドック背景のぼかしを削除します。
+Name: NoDockBlur
+Author: sugi
+
+Package: com.sugi.musicfm++
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 72
+Filename: ./debs/com.sugi.musicfm++_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2900
+MD5sum: 08404a9e0713e8d314da1fb3acaba5dd
+SHA1: 0fcd7d8187097368c3a4a71b70acce5b155f9427
+SHA256: f87ac93cb7371fa24dec5ec4bfa362acfde67162108eeedd124c2502d0f2990d
+SHA512: 572fe9adea72bd1b310768979569271634b4f4f624698e12d71814a433fcfde2387c75192217af080c1bc6d0f9d2e701c98f3becfe0b1080162f1533d701277b
+Description: An awesome MobileSubstrate tweak!
+Name: MusicFM++
+Author: sugi
+
+Package: com.sugi.linetoolsxii
+Architecture: iphoneos-arm
+Version: 0.1.1-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 304
+Filename: ./debs/LINETools0.1.1.deb
+Size: 60848
+MD5sum: 5b132cee59f82c88e520a251ba4d20e3
+SHA1: d7c24557e276e5223b10fa5e354fbdb3392f9f8c
+SHA256: bad626982bc94d8c95d3a3944ca8d88943f297a1d9415264b086a71f82f8e301
+SHA512: 9adebe7d31eb467385340adc16be43dbaaea664f5327e106dd63d86831ceb9248842f094afc7b7058235bbefe00be381e5275abad9abe126f9f60d5cb3b2f0ee
+Description: Multifunctional tweak of LINE app.
+Name: LINE Tools XII
+Depiction: https://sugiuta.github.io/descriptions/linetoolsxii/index.html
+Author: sugi
+
+Package: con.sugi.youtubetoolsxii
+Architecture: iphoneos-arm
+Version: 0.0.4-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 332
+Filename: ./debs/con.sugi.youtubetoolsxii_0.0.4-1+debug_iphoneos-arm.deb
+Size: 67612
+MD5sum: 6d1985b569e1fd0c2146a64db8a1a0cc
+SHA1: 7263134b32f6df57a01c94afcd85384b262478a5
+SHA256: 267b4127edd84eb74d11e52c21c8beba458468bea05d9aa0e9bdaaa3164e13c6
+SHA512: 9c605c1a10d20d5360492b5e9d6d932d081977e34ead6ed3373ab35f7e3c9b6de0325a9d3dab3ac6c0cc759542386a5181e0cb47ce93ad36affb3fb86bdaf206
+Description: Multifunctional tweak for Youtube.
+Name: Youtube Tools XII
+Depiction: https://sugiuta.github.io/descriptions/youtubetoolsxii/index.html
+Author: sugi
+
+Package: com.sugi.mangabangpatch
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: App Patch
+Maintainer: sugi
+Installed-Size: 72
+Filename: ./debs/com.sugi.mangabangpatch_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3250
+MD5sum: 609cf93d6692f0fbea5e85806a332465
+SHA1: 84d49691e4a34a0c1543b4dd316fd4c6ba739a1d
+SHA256: 2d8e1e089ed733502b0a23688fb862bcb4bffc9ace6ea5b66593bb36f429bac6
+SHA512: df4ae9d9dc1ba4ac73c1680e622f0cdbcf78f7d425107ee3c86c17457959202f9a6264cebf98dbf75de08f394af7506b57552ce208d5df15ed2518dc413d0144
+Description: マンガBANGのフリーコイン、SPコインの枚数を999999にします。金貨もそのように設定されていますが仕様により見た目だけの変更にしています。不正はダメだよね。
+Name: MangaBang-Patch
+Author: sugi
+
+Package: com.sugi.iphonexstyledock
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugi
+Depends: mobilesubstrate
+Filename: ./debs/com.sugi.iphonexstyledock_1.0.0_iphoneos-arm.deb
+Size: 2294
+MD5sum: 9b58a49030718919c71243f32d59b241
+SHA1: 115bc712969a9836458a100e9705e32e68c3e37e
+SHA256: 9892f401172aecfb157a360f246b53fd262c9eb2381bfdfdc1b408f6a8307ae5
+SHA512: 3c1fb68f4ff5d5a8fa1d46de0161cef9f6908071f38be0e6b17a53f9982b6fc1197b611267fe5015c858dfbf6b883c82d618e211fe904b4a1b0fd1fd1c7bb340
+Description: iPhoneX以下のデバイスでiPhoneXのようなドックを再現するTweakです。
+Name: iPhoneX style Dock
+Author: sugi
+
+Package: com.sugi.appswitchergridxii
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugi
+Depends: mobilesubstrate
+Filename: ./debs/com.sugi.appswitchergridxii_1.0.0_iphoneos-arm.deb
+Size: 2340
+MD5sum: e05e1d31c1a3a61f0630c7a63f49b2a5
+SHA1: 6111ad8ed0d2b6df06be88f375904ca7733b2584
+SHA256: c25e0ddb8a2a30c135e33548df2ea340bf421e9b104638d70ef8970250056090
+SHA512: 9a2adce1ed30bcaef3d689cd236d78ef505ebc405dbf8340baff673a65014d11f9456e7843ee1f3b83eb483e2c0dfdb49b3e72203694fbeaad97536e5766491d
+Description: アプリスイッチャーの表示をiPadのようなグリッド表示に変更します
+Name: AppSwitcher GridXII
+Author: sugi
+
+Package: com.sugi.fivefockiconxii
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugi
+Depends: mobilesubstrate
+Filename: ./debs/com.sugi.fivefockiconxii_1.0.0_iphoneos-arm.deb
+Size: 2326
+MD5sum: ce9f2ed4149a759cba36034288be88b2
+SHA1: 62b80e7a0a0d91f522e38ab28a2f915526ee7337
+SHA256: 3c4f6068e04123c462650f827ebdc1f1f978b7bfa07b72de35d49032e4d6385b
+SHA512: 4589ba6f08284b57bdfd73c66877a875b3b43576e6d13ae05132e15a27b8853917e0ced6ba7b5394ad58f34e04f4fffc262dcdcb2c8152a57d9a25448cf78e33
+Description: ドックに配置できるアプリの数を5個に増やします。
+Name: FiveDockIconXII
+Author: sugi
+
+Package: com.sugi.noshuttersound
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugi
+Filename: ./debs/com.sugi.noshuttersound.deb
+Size: 50064
+MD5sum: 9c150f80b841b3d9086b59f148afe56d
+SHA1: b7dfbd0d916e279a7e944cdcd6f6659784d437c5
+SHA256: 0dfceb542b80a88cd5f6152b218f7932d2b8c2431058f51eb441bfb2c78468ec
+SHA512: 8291d529f465cc42ecdb6e6b0f09fba9a696b93d510e5546c2bd5d7a93354965c974a64db125c89b034d98efb5c1bb8e422e31b690b72cf4302e0437a5fa3219
+Description: カメラのシャッター音を無効化します。スクリーンショットにも適用されております。
+Author: sugi
+Name: No Shutter Sound
+Icon: file:///var/sugi.PNG
+
+Package: com.sugi.flex3editpatches
+Architecture: iphoneos-arm
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: sugi
+Installed-Size: 236
+Filename: ./debs/com.sugi.flex3editpatches_0.0.2-1+debug_iphoneos-arm.deb
+Size: 16516
+MD5sum: 82a63a200eba1bfb86ba9b708b36ee18
+SHA1: 75912a71596a4ab8faf23b1808f71e56355df40f
+SHA256: 1267808d1259545c1813cfa7e3a1c90a41b99fc07fd75b065e9b946d5bf6d72d
+SHA512: 3eb7f3a7e212ece70968eddd945160fe58a5ca942a2e89afaa3b901e62800a238fe45789bb1ff9a4ec75652e20e9694ce7c11e12689206e727aeffb7098ef6c6
+Description: You can add units and edit downloaded patches.
+Name: Flex3 Edit Patches
+Author: sugi
+
